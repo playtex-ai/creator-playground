@@ -1,3 +1,7 @@
+# v1.1.0 — Real PLAYTEX AI assets and branding
+
+Official rabbit logo, cyan/violet brand treatment, and actual lava, black-and-gold, basalt, and city-night website imagery. New free first-party Wood Photo PBR sample with seven maps and settings. Gallery and brand rights are separated from downloadable sample licensing.
+
 # Changelog
 
 ## 1.0.0 — September 30, 2026

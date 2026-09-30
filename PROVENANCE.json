@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "PLAYTEX AI",
-  "license": "CC-BY-4.0",
+  "license": "Mixed; see each file and RIGHTS.md",
   "rights": "RIGHTS.md",
   "files": [
     {
@@ -518,6 +518,175 @@
       "rightsBasis": "Original release artwork, derived maps, or original explanatory text. See RIGHTS.md. No third-party/customer inputs.",
       "width": 1600,
       "height": 860,
+      "format": "png"
+    },
+    {
+      "path": "media/brand/playtex-ai-rabbit.png",
+      "bytes": 121906,
+      "sha256": "8b51f9f4be46c5d29eda54c3bb86e04396341b60bad7d343431b77b11b81a006",
+      "license": "Excluded; existing rights retained",
+      "rightsBasis": "Authorized website/brand showcase reproduction; no new reuse grant.",
+      "source": "https://www.playtex.ai/playtex-icon.png",
+      "width": 1024,
+      "height": 1024,
+      "format": "png"
+    },
+    {
+      "path": "media/showcase/playtex-ai-creator-playground.png",
+      "bytes": 1214330,
+      "sha256": "29b3dd4248b0604d85e0353a0306ede5780363b65f75f4c9b7fa44059223f9f1",
+      "license": "Excluded; existing rights retained",
+      "rightsBasis": "Authorized website/brand showcase reproduction; no new reuse grant.",
+      "width": 1600,
+      "height": 900,
+      "format": "png"
+    },
+    {
+      "path": "media/showcase/lava.webp",
+      "bytes": 945244,
+      "sha256": "fc9ee857c756cefd04c4af67dc77e4e3d9b6abd7fc8055fb7090a453bae741df",
+      "license": "Excluded; existing rights retained",
+      "rightsBasis": "Authorized website/brand showcase reproduction; no new reuse grant.",
+      "source": "https://www.playtex.ai/images/image-to-texture/lava-result-768.webp",
+      "width": 768,
+      "height": 768,
+      "format": "webp"
+    },
+    {
+      "path": "media/showcase/black-gold.webp",
+      "bytes": 39284,
+      "sha256": "cb757454a6ecb98bb00e78cd40b97d0226a6a23a2607b68937b43aa9e4134108",
+      "license": "Excluded; existing rights retained",
+      "rightsBasis": "Authorized website/brand showcase reproduction; no new reuse grant.",
+      "source": "https://www.playtex.ai/images/admin-home-preview/seamless-black-gold-1024.webp",
+      "width": 1024,
+      "height": 1024,
+      "format": "webp"
+    },
+    {
+      "path": "media/showcase/basalt.webp",
+      "bytes": 678976,
+      "sha256": "3745ec243c185e2f78155436cea113b217f1216bc15cc34ad99cc86378dfc199",
+      "license": "Excluded; existing rights retained",
+      "rightsBasis": "Authorized website/brand showcase reproduction; no new reuse grant.",
+      "source": "https://www.playtex.ai/images/admin-home-preview/seamless-wet-basalt.webp",
+      "width": 1800,
+      "height": 1800,
+      "format": "webp"
+    },
+    {
+      "path": "media/showcase/city-night.webp",
+      "bytes": 256406,
+      "sha256": "3bb7679128f457fd828dc0f2c4cc786967a554207a473922c21f6b07c0c4e047",
+      "license": "Excluded; existing rights retained",
+      "rightsBasis": "Authorized website/brand showcase reproduction; no new reuse grant.",
+      "source": "https://www.playtex.ai/images/admin-home-preview/city-night-hdri-2048.webp",
+      "width": 2048,
+      "height": 1024,
+      "format": "webp"
+    },
+    {
+      "path": "assets/materials/wood-photo/albedo.png",
+      "bytes": 514918,
+      "sha256": "22dfb5a8708378edcc990a940ce01f030c854df644b6a33d3d94d5a1fcb86a7f",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    {
+      "path": "assets/materials/wood-photo/ao.png",
+      "bytes": 241708,
+      "sha256": "6d13e800128e6e310987db286d4575a9a3e267d4f40dcbc58c7be57cf0eecb5c",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    {
+      "path": "assets/materials/wood-photo/emission.png",
+      "bytes": 120993,
+      "sha256": "3742b341b84be3fa987b388a81de6c6d4f9c0030e00da2a41764cc422f44533b",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    {
+      "path": "assets/materials/wood-photo/height.png",
+      "bytes": 281554,
+      "sha256": "e659dbe5fc988ffe4d62bf9b492a6bb1bd6d853894e53e1662d1a11f75fbb2d6",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    {
+      "path": "assets/materials/wood-photo/material.json",
+      "bytes": 2305,
+      "sha256": "69f0f14418cccffa869789180313d0dd6558d3dc22b9fd68fd6c9d3ec478c80e",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/"
+    },
+    {
+      "path": "assets/materials/wood-photo/metallic.png",
+      "bytes": 196553,
+      "sha256": "3c9b2d4800017ef45f43af82e5adc2452181a821643d5ac148ce2ca5fa4f178d",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    {
+      "path": "assets/materials/wood-photo/normal.png",
+      "bytes": 798309,
+      "sha256": "c968bb2d88925ca3f1e747ceda129ee6a287e44ed67ed40308835b15dc1ed0d2",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    {
+      "path": "assets/materials/wood-photo/README.md",
+      "bytes": 1001,
+      "sha256": "35ea67faa514c55486416f842dc26e88d75a836a571de5ad09a9fa4854536aed",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/"
+    },
+    {
+      "path": "assets/materials/wood-photo/roughness.png",
+      "bytes": 232144,
+      "sha256": "ed0ccd3fe9fab88cba903210d0cd7a2fb7bdd228903a4434cef253f402b6ca23",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
+      "format": "png"
+    },
+    {
+      "path": "assets/materials/wood-photo/source.png",
+      "bytes": 481702,
+      "sha256": "6f2a6a517b4957cc0095382b541ea13704f83442a137d133856b9abb81387b76",
+      "license": "CC-BY-4.0",
+      "rightsBasis": "First-party wood photo and existing PBR outputs; founder-authorized public sample.",
+      "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/",
+      "width": 512,
+      "height": 512,
       "format": "png"
     }
   ]

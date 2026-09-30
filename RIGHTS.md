@@ -4,9 +4,13 @@ Copyright © 2026 PLAYTEX AI. The founder requested public guides, original free
 
 ## Licensed material
 
-Original Markdown documentation, JSON metadata, original sample pixels under assets/, and sample preview artwork under media/ are released under Creative Commons Attribution 4.0 International. ZIP downloads carry the same LICENSE and rights record. Commercial use, copying, and adaptation are allowed subject to that license. Credit PLAYTEX AI, link the license, and identify changes.
+Original Markdown documentation, JSON metadata, original sample pixels under assets/, and the original v1.0.0 preview artwork directly under media/ are released under Creative Commons Attribution 4.0 International. ZIP downloads carry the same LICENSE and rights record. Commercial use, copying, and adaptation are allowed subject to that license. Credit PLAYTEX AI, link the license, and identify changes.
 
 Suggested credit: “Material / skybox by PLAYTEX AI (https://www.playtex.ai/), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); modified.”
+
+**Excluded from CC BY:** everything under `media/brand/` and `media/showcase/`. These contain the official logo and existing website imagery, reproduced for this authorized product showcase. Existing rights remain with their respective holders; no asset redistribution or trademark license is granted.
+
+**Wood Photo:** `assets/materials/wood-photo/` is a first-party phone-photo crop and its previously published PLAYTEX AI PBR outputs. The founder authorized the public asset offering. This sample is CC BY 4.0. Its original publication date is September 3, 2026; it is not newly generated artwork.
 
 ## Creation record
 

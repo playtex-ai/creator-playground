@@ -10,4 +10,4 @@ Pick the guide that matches your starting point. Each guide links to a live tool
 6. [Map reference and troubleshooting](map-reference.md)
 7. [Frequently asked questions](faq.md)
 
-[Free starter pack](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/playtex-ai-starter-pack-v1.zip) · [Back to the playground](../README.md)
+[Free Wood Photo PBR pack](https://github.com/playtex-ai/creator-playground/releases/download/v1.1.0/playtex-ai-wood-photo-pbr-512.zip) · [Back to the playground](../README.md)

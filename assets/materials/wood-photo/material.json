@@ -1,0 +1,99 @@
+{
+  "name": "PLAYTEX AI Wood Photo",
+  "license": "CC-BY-4.0",
+  "resolution": [
+    512,
+    512
+  ],
+  "source": "https://www.playtex.ai/benchmarks/image-to-pbr/2026-09-03/inputs/wood-neutral.png",
+  "provenance": "Existing first-party phone-photo crop and exact PLAYTEX AI reference-core outputs published September 3, 2026.",
+  "processing": "Deterministic image processing; not AI generation.",
+  "version": "reference build 2ae3dbaf971b21895a84697b5775fa0509cfedf5",
+  "normalConvention": "OpenGL (+Y)",
+  "seamless": false,
+  "settings": {
+    "albedo": {
+      "brightness": 0,
+      "contrast": 1,
+      "saturation": 1,
+      "hueShift": 0,
+      "gamma": 1
+    },
+    "normal": {
+      "strength": 5,
+      "blur": 0,
+      "detail": 1,
+      "invertX": false,
+      "invertY": false,
+      "format": "opengl",
+      "seamless": false,
+      "edgeEmphasis": 0.5,
+      "microDetailScale": 1,
+      "heightToNormalInfluence": 0.3
+    },
+    "metallic": {
+      "mode": "smart",
+      "threshold": 128,
+      "contrast": 1,
+      "clampMin": 0,
+      "clampMax": 255,
+      "sourceChannel": "luminance"
+    },
+    "emission": {
+      "threshold": 200,
+      "mode": "solid",
+      "color": "#ffffff",
+      "gradientColors": [
+        "#ff0000",
+        "#ffff00",
+        "#00ff00",
+        "#00ffff",
+        "#0000ff"
+      ],
+      "gradientIntensities": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "glowRadius": 0,
+      "sourceMode": "luminance",
+      "softThreshold": 0.2,
+      "falloffCurve": "smooth",
+      "invertOutput": false,
+      "colorMatch": false
+    },
+    "roughness": {
+      "source": "luminance",
+      "blackPoint": 0,
+      "whitePoint": 255,
+      "contrast": 1,
+      "outputMode": "roughness",
+      "clampMin": 0,
+      "clampMax": 255,
+      "invertOutput": false,
+      "responseCurve": "linear"
+    },
+    "height": {
+      "strength": 1,
+      "blur": 0,
+      "midpointBias": 0,
+      "clampMin": 0,
+      "clampMax": 255,
+      "parallaxSafe": false
+    },
+    "ao": {
+      "radius": 2,
+      "intensity": 1,
+      "edgeOcclusionBoost": false,
+      "heightAwareAO": false
+    },
+    "global": {
+      "seamAwareProcessing": false,
+      "mapConsistencyLock": true,
+      "powerOfTwoLock": false
+    }
+  }
+}

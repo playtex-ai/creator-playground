@@ -1,10 +1,10 @@
-<p align="center"><a href="https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator_playground"><img src="media/playtex-ai-creator-playground.png" alt="PLAYTEX AI Creator Playground: image to texture, image to PBR, and skybox workflows with three free material samples and a skybox" width="100%"></a></p>
+<p align="center"><a href="https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator_playground"><img src="media/showcase/playtex-ai-creator-playground.png" alt="PLAYTEX AI Creator Playground: image to texture, image to PBR, and skybox workflows with the official rabbit logo and real product artwork" width="100%"></a></p>
 
 # PLAYTEX AI — Image to Texture, Image to PBR & Skybox Generator Guides
 
-**Your next world starts with a surface.** This is the PLAYTEX AI Creator Playground: practical workflows, free PBR texture samples, a downloadable skybox, and small creative challenges for game developers and 3D artists.
+**Your next world starts with a surface.** This is the PLAYTEX AI Creator Playground: practical workflows, real product examples, a free photo-derived PBR sample, and creative challenges for game developers and 3D artists.
 
-[**Try PLAYTEX AI ↗**](https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator_playground) · [**Download the free starter pack ↓**](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/playtex-ai-starter-pack-v1.zip) · [**Choose a guide →**](guides/README.md)
+[**Try PLAYTEX AI ↗**](https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator_playground) · [**Download the real wood PBR pack ↓**](https://github.com/playtex-ai/creator-playground/releases/download/v1.1.0/playtex-ai-wood-photo-pbr-512.zip) · [**Choose a guide →**](guides/README.md)
 
 PLAYTEX AI offers browser-based image-to-texture, image-to-PBR, material, and skybox workflows. AI-assisted tools create source imagery; the **PBR Map Generator uses deterministic image processing** to derive material maps. This public repository contains documentation and assets. The tools run on the website and their implementation stays private.
 
@@ -17,31 +17,31 @@ PLAYTEX AI offers browser-based image-to-texture, image-to-PBR, material, and sk
 | An existing material texture | A material with reviewed scale, map conventions, and shading | [Material to PBR](guides/material-to-pbr.md) | [PBR Map Generator](https://www.playtex.ai/pbr-map-generator) |
 | A scene or lighting idea | A 360° environment panorama | [Skybox generator](guides/skybox-generator.md) | [HDRI Sphere Generator](https://www.playtex.ai/hdri-sphere-generator) |
 
-## 🎁 Free assets. Actual files. No sign-up.
+## ✨ Made with a little texture obsession
 
-![Mint Terrazzo, Peach Ceramic, and Midnight Metal sample previews](media/material-samples.png)
+<table><tr><td><img src="media/showcase/lava.webp" alt="Actual lava texture output from the PLAYTEX AI image-to-texture walkthrough" width="260"></td><td><img src="media/showcase/black-gold.webp" alt="Black-and-gold material featured on the PLAYTEX AI homepage" width="260"></td><td><img src="media/showcase/basalt.webp" alt="Wet basalt texture featured on the PLAYTEX AI homepage" width="260"></td></tr><tr><td><b>Lava / Image to texture</b></td><td><b>Black & gold / Material inspiration</b></td><td><b>Basalt / Surface detail</b></td></tr></table>
 
-| Material | What's included | Download |
-| --- | --- | --- |
-| [Mint Terrazzo](assets/materials/mint-terrazzo) | 512px source + seven PNG maps + settings | [ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/mint-terrazzo-512.zip) |
-| [Peach Ceramic](assets/materials/peach-ceramic) | 512px source + seven PNG maps + settings | [ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/peach-ceramic-512.zip) |
-| [Midnight Metal](assets/materials/midnight-metal) | 512px source + seven PNG maps + settings | [ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/midnight-metal-512.zip) |
+Actual imagery from the PLAYTEX AI website. [See the image-to-texture workflow](https://www.playtex.ai/image-to-texture-generator). Gallery artwork is shown for product illustration; it is not included in the free sample license.
 
-These original synthetic surfaces were processed with the PLAYTEX AI image-mode PBR core. They are stylized learning materials, not scans or measured physical materials. Sphere images are illustrative previews using the exported albedo and normal detail; they are not product UI captures or full reference PBR renders.
+![City-night environment featured on the PLAYTEX AI website](media/showcase/city-night.webp)
 
-![Apricot Orbit stylized sunset skybox panorama](media/apricot-orbit-panorama.png)
+**Build the atmosphere, too.** Explore the [skybox generator workflow](guides/skybox-generator.md) and [HDRI Sphere Generator](https://www.playtex.ai/hdri-sphere-generator). This web preview illustrates the environment; it is not a downloadable HDR light probe.
 
-**[Apricot Orbit](assets/skyboxes/apricot-orbit)** — a 2048 × 1024 panorama plus six 512px cubemap faces. [Download skybox ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/apricot-orbit-skybox.zip).
+## 🎁 Free asset: a real wood photo, seven PBR maps
 
-This original authored panorama was converted with the PLAYTEX AI projection core. It is an **LDR background**, not a calibrated HDR light probe or a claimed AI-generator result.
+[![Real wood-photo source used by PLAYTEX AI](assets/materials/wood-photo/source.png)](https://github.com/playtex-ai/creator-playground/releases/download/v1.1.0/playtex-ai-wood-photo-pbr-512.zip)
 
-**License:** these sample files are [CC BY 4.0](LICENSE), including commercial use and adaptation with attribution. Example credit: “Material / skybox by PLAYTEX AI — CC BY 4.0; modified.” The GitHub sample offer is separate from account, credit, resolution, and download rules on the live product. [Asset rights and provenance](RIGHTS.md) · [File checksums](SHA256SUMS.txt).
+**[Download Wood Photo PBR — 512px ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.1.0/playtex-ai-wood-photo-pbr-512.zip)** · [Browse files and settings](assets/materials/wood-photo)
 
-## 🕹️ Make a tiny world
+A first-party photo crop plus albedo, normal, roughness, metallic, height, AO, and emission maps. Exact PLAYTEX AI reference-core outputs from our published September 2026 example, generated through deterministic image processing. No sign-up for this GitHub download.
 
-Try the **one room, three surfaces** challenge: tile Peach Ceramic across a floor, use Mint Terrazzo on a countertop, add Midnight Metal to a prop, and put Apricot Orbit behind the scene. Change the tiling scale until the room feels believable. Start emission at zero.
+Use the pack commercially with attribution under [CC BY 4.0](LICENSE). The source is not seamless or a measured scan. Start emission disabled and review material response in your renderer. [Rights and provenance](RIGHTS.md) · [Checksums](SHA256SUMS.txt). Live-product downloads follow the website’s plan rules.
 
-Want feedback? [Share a screenshot or ask for an example](https://github.com/playtex-ai/creator-playground/issues/new/choose). Tell us your renderer, normal convention, and what you changed. Share only work you have permission to publish.
+## 🕹️ Make it yours
+
+Try the **one photo, three moods** challenge: use the wood sample on a prop, then compare warm daylight, cool moonlight, and dramatic side lighting. Keep the material the same and watch the world change. [Share a screenshot](https://github.com/playtex-ai/creator-playground/issues/new/choose) with your renderer and normal-map convention.
+
+Earlier synthetic learning packs remain available in the [v1.0.0 archive](https://github.com/playtex-ai/creator-playground/releases/tag/v1.0.0).
 
 ## 📚 Learn the useful bits
 
