@@ -21,7 +21,7 @@ The seven map roles are **albedo, normal, roughness, metallic, height, ambient o
 
 ## A downloadable worked sample
 
-[Download Wood Photo PBR](https://github.com/playtex-ai/creator-playground/releases/download/v1.1.0/playtex-ai-wood-photo-pbr-512.zip). The pack contains a first-party 512px photo crop, seven actual PLAYTEX AI reference-core outputs, and settings. This photo-derived learning sample is not seamless or a measured scan.
+[Download Black & Gold Marble](https://github.com/playtex-ai/creator-playground/releases/download/v1.2.0/playtex-ai-black-gold-marble-512.zip). This actual library material includes six 512px PBR maps, source, Unity packing, and settings. [See its Blender Cycles render and map previews](../assets/materials/black-gold-marble). Existing PLAYTEX AI Terms apply.
 
 For this pack, normal.png is OpenGL (+Y), roughness.png is roughness rather than smoothness, and emission is disabled. Albedo and emission are color/sRGB; normal, roughness, metallic, height, and AO are linear data. Read the [map reference](map-reference.md) before connecting channels.
 

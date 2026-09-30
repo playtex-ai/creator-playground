@@ -1,3 +1,7 @@
+# v1.2.0 — Feature a finished Black & Gold Marble material
+
+Replaces the featured phone-photo sample with the existing PLAYTEX AI library material, matching Blender Cycles render, six PBR maps and Unity packing. The public website archive is mirrored unchanged with its original terms. Earlier releases remain available as historical examples.
+
 # v1.1.0 — Real PLAYTEX AI assets and branding
 
 Official rabbit logo, cyan/violet brand treatment, and actual lava, black-and-gold, basalt, and city-night website imagery. New free first-party Wood Photo PBR sample with seven maps and settings. Gallery and brand rights are separated from downloadable sample licensing.

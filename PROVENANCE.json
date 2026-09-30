@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "PLAYTEX AI",
   "license": "Mixed; see each file and RIGHTS.md",
   "rights": "RIGHTS.md",
@@ -688,6 +688,102 @@
       "width": 512,
       "height": 512,
       "format": "png"
+    },
+    {
+      "path": "assets/materials/black-gold-marble/albedo.png",
+      "bytes": 458201,
+      "sha256": "12f1dcf6c0ff1f459b62e9a20cc780d3d365576bfd9cd00f98324d9d7fe859d3",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/ao.png",
+      "bytes": 178948,
+      "sha256": "c7612b11f97f132ac9d4f4127d8d4143ecfaf1c8e332fbb976ea76dbe3daa502",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/height.png",
+      "bytes": 225877,
+      "sha256": "00d625f1648632155e5424cb8126fabfc41579eadd0b43ea69271bed1477fa7b",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/metallic.png",
+      "bytes": 157509,
+      "sha256": "70917387d175e34d8ed0b3e3a50310a0c8dda86ad2c39002ea126b786f47f6b4",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/normal.png",
+      "bytes": 654821,
+      "sha256": "1c5e25dc3bf901635069e979954cc825ee9fb21f3cb12ad51e94390509147836",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/README.md",
+      "bytes": 853,
+      "sha256": "d4e1bc1d00fc78656309fd9a85d769218b2f21cce8d60cb1b5f3d38a56e91eca",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/README.txt",
+      "bytes": 1139,
+      "sha256": "3583174a35cf74d627bb80ca53cb30409357e940740e64f0b8f7b915a58e1f16",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/roughness.png",
+      "bytes": 205615,
+      "sha256": "0f0f055b49d5c30e3d4ef1232478aa4db75997028fad67bb1f64c207eb2ed316",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/settings.json",
+      "bytes": 3668,
+      "sha256": "54fcd9d98065e0c737b5cd3554bc43e0e478789eda6943818725d0af3b04f178",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/source.png",
+      "bytes": 458201,
+      "sha256": "98bedd2f1a213c8d27e25ac91caf402d779984eb00310f8defeece001e82f90c",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "assets/materials/black-gold-marble/unity-metallic-smoothness.png",
+      "bytes": 322939,
+      "sha256": "4821ae17528f2bcf8e95a07b9a0169077506665c752f1dd280d004f6867f5f55",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/downloads/workflows/black-gold-marble.zip",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
+    },
+    {
+      "path": "media/showcase/black-gold-cycles.webp",
+      "bytes": 53942,
+      "sha256": "663a24334d3f5ff9a6205662595a5c687785c8f4c9efcf770e0fd855c70aa305",
+      "license": "PLAYTEX AI Terms; excluded from CC BY",
+      "source": "https://www.playtex.ai/images/workflows/black-gold-marble/cycles-render.webp",
+      "rightsBasis": "Existing public website material sample and corresponding render; original terms preserved."
     }
   ]
 }

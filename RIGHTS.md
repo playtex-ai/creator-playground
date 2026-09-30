@@ -2,9 +2,13 @@
 
 Copyright © 2026 PLAYTEX AI. The founder requested public guides, original free assets, and a GitHub showcase. This release adds original material beyond the earlier documentation-only export-spec repository.
 
+## Black & Gold Marble — existing product terms
+
+`assets/materials/black-gold-marble/`, `downloads/playtex-ai-black-gold-marble-512.zip`, and `media/showcase/black-gold-cycles.webp` are excluded from CC BY. The existing public website sample archive is mirrored byte-for-byte, retaining its README and [PLAYTEX AI Terms](https://www.playtex.ai/terms). The Cycles preview is the existing corresponding website render. No new license is granted for this library material.
+
 ## Licensed material
 
-Original Markdown documentation, JSON metadata, original sample pixels under assets/, and the original v1.0.0 preview artwork directly under media/ are released under Creative Commons Attribution 4.0 International. ZIP downloads carry the same LICENSE and rights record. Commercial use, copying, and adaptation are allowed subject to that license. Credit PLAYTEX AI, link the license, and identify changes.
+Original Markdown documentation, JSON metadata, original sample pixels under assets/ except the Black & Gold Marble material excluded above, and the original v1.0.0 preview artwork directly under media/ are released under Creative Commons Attribution 4.0 International. ZIP downloads carry the same LICENSE and rights record. Commercial use, copying, and adaptation are allowed subject to that license. Credit PLAYTEX AI, link the license, and identify changes.
 
 Suggested credit: “Material / skybox by PLAYTEX AI (https://www.playtex.ai/), CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); modified.”
 

@@ -1,0 +1,136 @@
+{
+  "libraryRecordId": "92022f3d-a836-4a35-86c1-dae4f6f2be77",
+  "workflow": "Custom marble direction → black/gold palette priority → large pattern scale → seamless generation.",
+  "generatedAt": "2026-06-06T13:20:59.588Z",
+  "savedAt": null,
+  "providerModel": null,
+  "recordedSettings": {
+    "style": "photoreal-clean",
+    "gameType": "3d-realistic-pbr",
+    "seamless": true,
+    "patternScale": "large",
+    "variation": 0.5,
+    "palette": [
+      "#121212",
+      "#cdb123"
+    ],
+    "prioritizePalette": true,
+    "selectedMaterialOptions": {}
+  },
+  "libraryFileDimensions": [
+    2048,
+    2048
+  ],
+  "demonstrationDimensions": [
+    512,
+    512
+  ],
+  "libraryFileSha256": "e1d9e07e69a145e6c303ab6c2b5c93dea046b904fa538447e7eeba42158dc317",
+  "sampleSha256": "98bedd2f1a213c8d27e25ac91caf402d779984eb00310f8defeece001e82f90c",
+  "reviewedAt": "2026-09-04",
+  "mapBuildCommit": "0178c6b3f95fdd485c2947e1ad174f79306b5cee",
+  "mapProcessing": {
+    "engine": "PLAYTEX AI deterministic image-to-PBR core",
+    "materialClass": "dielectric",
+    "materialPreset": "stone-concrete",
+    "settings": {
+      "albedo": {
+        "brightness": 0,
+        "contrast": 1,
+        "saturation": 1,
+        "hueShift": 0,
+        "gamma": 1
+      },
+      "normal": {
+        "strength": 5,
+        "blur": 0,
+        "detail": 1,
+        "invertX": false,
+        "invertY": false,
+        "format": "opengl",
+        "seamless": false,
+        "edgeEmphasis": 0.5,
+        "microDetailScale": 1,
+        "heightToNormalInfluence": 0.3
+      },
+      "metallic": {
+        "mode": "smart",
+        "threshold": 128,
+        "contrast": 1,
+        "clampMin": 0,
+        "clampMax": 255,
+        "sourceChannel": "luminance"
+      },
+      "emission": {
+        "threshold": 200,
+        "mode": "solid",
+        "color": "#ffffff",
+        "gradientColors": [
+          "#ff0000",
+          "#ffff00",
+          "#00ff00",
+          "#00ffff",
+          "#0000ff"
+        ],
+        "gradientIntensities": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "intensity": 1,
+        "glowRadius": 0,
+        "sourceMode": "luminance",
+        "softThreshold": 0.2,
+        "falloffCurve": "smooth",
+        "invertOutput": false,
+        "colorMatch": false
+      },
+      "roughness": {
+        "source": "luminance",
+        "blackPoint": 0,
+        "whitePoint": 255,
+        "contrast": 1,
+        "outputMode": "roughness",
+        "clampMin": 0,
+        "clampMax": 255,
+        "invertOutput": false,
+        "responseCurve": "linear"
+      },
+      "height": {
+        "strength": 1,
+        "blur": 0,
+        "midpointBias": 0,
+        "clampMin": 0,
+        "clampMax": 255,
+        "parallaxSafe": false
+      },
+      "ao": {
+        "radius": 2,
+        "intensity": 1,
+        "edgeOcclusionBoost": false,
+        "heightAwareAO": false
+      },
+      "global": {
+        "seamAwareProcessing": false,
+        "mapConsistencyLock": true,
+        "powerOfTwoLock": false
+      }
+    },
+    "resolution": 512,
+    "normalOrientation": "OpenGL",
+    "mapBitDepth": 8
+  },
+  "render": {
+    "engine": "Blender Cycles",
+    "version": "4.2.3 LTS",
+    "colorSpace": "AgX",
+    "samples": 32,
+    "denoising": true,
+    "width": 1280,
+    "height": 800,
+    "notes": "Principled BSDF; base color sRGB; OpenGL normal, metallic and roughness Non-Color; normal strength 0.7; two neutral area lights and world strength 0.3; no displacement or bloom. Cycles CPU, 32 samples, denoising; AgX Medium High Contrast; exposure 0; gamma 1.",
+    "sha256": "12c2f3954ed0b72ddbbe954b585676d21c91e5150812120a3b468a8a488f391a"
+  }
+}
