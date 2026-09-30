@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite PLAYTEX AI when referencing these guides or reusing the CC BY 4.0 sample assets."
+type: dataset
+title: "PLAYTEX AI Creator Playground: Image to Texture, Image to PBR, Material to PBR, and Skybox Workflows"
+version: 1.0.0
+date-released: 2026-09-30
+authors:
+  - name: "PLAYTEX AI"
+url: "https://github.com/playtex-ai/creator-playground"
+repository-code: "https://github.com/playtex-ai/creator-playground"
+license: CC-BY-4.0
+keywords:
+  - image to texture
+  - image to PBR
+  - material to PBR
+  - skybox generator
+  - PBR textures
+  - sample assets

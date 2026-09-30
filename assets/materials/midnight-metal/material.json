@@ -1,0 +1,119 @@
+{
+  "name": "Midnight Metal",
+  "creator": "PLAYTEX AI",
+  "created": "2026-09-30",
+  "license": "CC-BY-4.0",
+  "dimensions": [
+    512,
+    512
+  ],
+  "source": "Original synthetic artwork authored for this public sample pack. No customer imagery, external texture library or AI image service was used.",
+  "processing": "Source processed with the PLAYTEX AI image-mode PBR core; no product implementation is included.",
+  "materialClass": "metal",
+  "materialPreset": "bare-metal",
+  "normalConvention": "OpenGL (+Y)",
+  "roughnessMode": "roughness",
+  "colorMaps": [
+    "albedo",
+    "emission"
+  ],
+  "linearDataMaps": [
+    "normal",
+    "roughness",
+    "metallic",
+    "height",
+    "ao"
+  ],
+  "emission": "Disabled; black map included for completeness.",
+  "settings": {
+    "albedo": {
+      "brightness": 0,
+      "contrast": 1,
+      "saturation": 1,
+      "hueShift": 0,
+      "gamma": 1
+    },
+    "normal": {
+      "strength": 2,
+      "blur": 0,
+      "detail": 1,
+      "invertX": false,
+      "invertY": false,
+      "format": "opengl",
+      "seamless": false,
+      "edgeEmphasis": 0.5,
+      "microDetailScale": 1,
+      "heightToNormalInfluence": 0.3
+    },
+    "metallic": {
+      "mode": "smart",
+      "threshold": 128,
+      "contrast": 1,
+      "clampMin": 0,
+      "clampMax": 255,
+      "sourceChannel": "luminance"
+    },
+    "emission": {
+      "threshold": 200,
+      "mode": "solid",
+      "color": "#ffffff",
+      "gradientColors": [
+        "#ff0000",
+        "#ffff00",
+        "#00ff00",
+        "#00ffff",
+        "#0000ff"
+      ],
+      "gradientIntensities": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "intensity": 0,
+      "glowRadius": 0,
+      "sourceMode": "luminance",
+      "softThreshold": 0.2,
+      "falloffCurve": "smooth",
+      "invertOutput": false,
+      "colorMatch": false
+    },
+    "roughness": {
+      "source": "luminance",
+      "blackPoint": 0,
+      "whitePoint": 255,
+      "contrast": 1,
+      "outputMode": "roughness",
+      "clampMin": 0,
+      "clampMax": 255,
+      "invertOutput": false,
+      "responseCurve": "linear"
+    },
+    "height": {
+      "strength": 1,
+      "blur": 0,
+      "midpointBias": 0,
+      "clampMin": 0,
+      "clampMax": 255,
+      "parallaxSafe": false
+    },
+    "ao": {
+      "radius": 2,
+      "intensity": 1,
+      "edgeOcclusionBoost": false,
+      "heightAwareAO": false
+    },
+    "global": {
+      "seamAwareProcessing": true,
+      "mapConsistencyLock": true,
+      "powerOfTwoLock": false
+    }
+  },
+  "limitations": [
+    "Stylized demonstration, not a measured or scanned real-world material.",
+    "Periodic source design; inspect derived maps and filtering at repeat boundaries in your renderer.",
+    "Raw separate map channels, not an engine-specific packed export.",
+    "No native engine import was performed for this release."
+  ]
+}

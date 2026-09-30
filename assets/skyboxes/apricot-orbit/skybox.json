@@ -1,0 +1,30 @@
+{
+  "name": "Apricot Orbit",
+  "creator": "PLAYTEX AI",
+  "created": "2026-09-30",
+  "license": "CC-BY-4.0",
+  "provenance": "Original synthetic panorama authored for this release. Cube faces projected using the PLAYTEX AI panorama conversion core. This is not an AI skybox-generator output.",
+  "panorama": {
+    "width": 2048,
+    "height": 1024,
+    "projection": "equirectangular",
+    "format": "8-bit RGBA PNG",
+    "dynamicRange": "LDR/display-referred; not a calibrated HDR lighting probe"
+  },
+  "cubemap": {
+    "faceSize": 512,
+    "orientation": "standard-dx",
+    "threejsFaceOrder": [
+      "px",
+      "nx",
+      "py",
+      "ny",
+      "pz",
+      "nz"
+    ]
+  },
+  "limitations": [
+    "Confirm orientation, color space, exposure and filtering in the destination.",
+    "Roblox-specific pole rotations are not baked into this generic cubemap. Use the Roblox workflow for that target."
+  ]
+}
