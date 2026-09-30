@@ -4,7 +4,7 @@
 
 **Your next world starts with a surface.** This is the PLAYTEX AI Creator Playground: practical workflows, free PBR texture samples, a downloadable skybox, and small creative challenges for game developers and 3D artists.
 
-[**Try PLAYTEX AI ↗**](https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator_playground) · [**Download the free starter pack ↓**](downloads/playtex-ai-starter-pack-v1.zip) · [**Choose a guide →**](guides/README.md)
+[**Try PLAYTEX AI ↗**](https://www.playtex.ai/?utm_source=github&utm_medium=referral&utm_campaign=creator_playground) · [**Download the free starter pack ↓**](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/playtex-ai-starter-pack-v1.zip) · [**Choose a guide →**](guides/README.md)
 
 PLAYTEX AI offers browser-based image-to-texture, image-to-PBR, material, and skybox workflows. AI-assisted tools create source imagery; the **PBR Map Generator uses deterministic image processing** to derive material maps. This public repository contains documentation and assets. The tools run on the website and their implementation stays private.
 
@@ -23,15 +23,15 @@ PLAYTEX AI offers browser-based image-to-texture, image-to-PBR, material, and sk
 
 | Material | What's included | Download |
 | --- | --- | --- |
-| [Mint Terrazzo](assets/materials/mint-terrazzo) | 512px source + seven PNG maps + settings | [ZIP](downloads/mint-terrazzo-512.zip) |
-| [Peach Ceramic](assets/materials/peach-ceramic) | 512px source + seven PNG maps + settings | [ZIP](downloads/peach-ceramic-512.zip) |
-| [Midnight Metal](assets/materials/midnight-metal) | 512px source + seven PNG maps + settings | [ZIP](downloads/midnight-metal-512.zip) |
+| [Mint Terrazzo](assets/materials/mint-terrazzo) | 512px source + seven PNG maps + settings | [ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/mint-terrazzo-512.zip) |
+| [Peach Ceramic](assets/materials/peach-ceramic) | 512px source + seven PNG maps + settings | [ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/peach-ceramic-512.zip) |
+| [Midnight Metal](assets/materials/midnight-metal) | 512px source + seven PNG maps + settings | [ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/midnight-metal-512.zip) |
 
 These original synthetic surfaces were processed with the PLAYTEX AI image-mode PBR core. They are stylized learning materials, not scans or measured physical materials. Sphere images are illustrative previews using the exported albedo and normal detail; they are not product UI captures or full reference PBR renders.
 
 ![Apricot Orbit stylized sunset skybox panorama](media/apricot-orbit-panorama.png)
 
-**[Apricot Orbit](assets/skyboxes/apricot-orbit)** — a 2048 × 1024 panorama plus six 512px cubemap faces. [Download skybox ZIP](downloads/apricot-orbit-skybox.zip).
+**[Apricot Orbit](assets/skyboxes/apricot-orbit)** — a 2048 × 1024 panorama plus six 512px cubemap faces. [Download skybox ZIP](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/apricot-orbit-skybox.zip).
 
 This original authored panorama was converted with the PLAYTEX AI projection core. It is an **LDR background**, not a calibrated HDR light probe or a claimed AI-generator result.
 

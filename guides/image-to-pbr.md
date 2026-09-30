@@ -21,7 +21,7 @@ The seven map roles are **albedo, normal, roughness, metallic, height, ambient o
 
 ## A downloadable worked sample
 
-[Download Peach Ceramic](../downloads/peach-ceramic-512.zip). The pack includes the original synthetic source, all seven 512px maps, and material.json with the settings used. These maps were produced with the PLAYTEX AI image-mode core. The source is authored artwork, not an AI extraction result.
+[Download Peach Ceramic](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/peach-ceramic-512.zip). The pack includes the original synthetic source, all seven 512px maps, and material.json with the settings used. These maps were produced with the PLAYTEX AI image-mode core. The source is authored artwork, not an AI extraction result.
 
 For this pack, normal.png is OpenGL (+Y), roughness.png is roughness rather than smoothness, and emission is disabled. Albedo and emission are color/sRGB; normal, roughness, metallic, height, and AO are linear data. Read the [map reference](map-reference.md) before connecting channels.
 

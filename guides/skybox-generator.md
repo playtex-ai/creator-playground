@@ -20,7 +20,7 @@ Describe the setting, time of day, horizon, and lighting direction together. For
 
 ![Apricot Orbit panorama](../media/apricot-orbit-panorama.png)
 
-[Download the skybox](../downloads/apricot-orbit-skybox.zip). It contains a 2048 × 1024 PNG panorama, six 512 × 512 PNG faces, and skybox.json describing the projection and orientation. The panorama is original authored artwork; the faces are actual PLAYTEX AI projection-core outputs. This sample demonstrates packaging and projection, not AI generation quality.
+[Download the skybox](https://github.com/playtex-ai/creator-playground/releases/download/v1.0.0/apricot-orbit-skybox.zip). It contains a 2048 × 1024 PNG panorama, six 512 × 512 PNG faces, and skybox.json describing the projection and orientation. The panorama is original authored artwork; the faces are actual PLAYTEX AI projection-core outputs. This sample demonstrates packaging and projection, not AI generation quality.
 
 The generic face filenames are px, nx, py, ny, pz, nz. That is the array order expected by [Three.js CubeTextureLoader](https://threejs.org/docs/pages/CubeTextureLoader.html). Confirm the renderer's coordinate system and orientation in a scene rather than relying on filenames alone.
 
